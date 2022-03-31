@@ -127,3 +127,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+restaurant_soup2.csv
+pub_soup2.csv
